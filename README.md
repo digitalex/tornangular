@@ -2,7 +2,9 @@ Tornangular
 ===========
 Tornado + AngularJS = pure Awesomeness™
 
-[Tornado](http://www.tornadoweb.org/en/stable/) and [AngularJS](http://angularjs.org/) are two fantastic web technologies – for the client and the server, respectively. They are both fast and lightweight, and can play nicely together. This is a simple starter kit to get you going; check out the easy steps to Awesomeness here:
+[Tornado](http://www.tornadoweb.org/en/stable/) and [AngularJS](http://angularjs.org/) are two fantastic web technologies – 
+for the client and the server, respectively. They are both fast and lightweight, and can play nicely together. 
+This is a simple starter kit to get you going; get up and running in no time:
 
 Prerequisites
 -------------
