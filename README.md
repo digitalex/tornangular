@@ -19,3 +19,4 @@ Get started
     git clone && cd tornangular
     pip install -r requirements.txt
     python server.py
+    # The server is now running at http://localhost:8888 – enjoy!
